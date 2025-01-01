@@ -1,0 +1,9 @@
+[submodule "HierarchBayesParcel"]
+	path = HierarchBayesParcel
+	url = git@github.com:DiedrichsenLab/HierarchBayesParcel.git
+[submodule "Functional_Fusion"]
+	path = Functional_Fusion
+	url = git@github.com:DiedrichsenLab/Functional_Fusion.git
+[submodule "FusionModel"]
+	path = FusionModel
+	url = git@github.com:DiedrichsenLab/FusionModel.git
